@@ -3,6 +3,6 @@
 
 ## Steps to build the makeanart.com website
 
-1. [Install Nuxt.js](https://nuxtjs.org/docs/2.x/get-started/installation)
-2. [Find good examples to build a simple layout makeanart.com website](https://nuxtjs.org/examples/)
-2. [Deploy the static website to GitHub Pages](https://nuxtjs.org/docs/2.x/deployment/github-pages/)
+1. [Install Next.js](https://nextjs.org/learn/basics/create-nextjs-app)
+2. [Find good examples to build a simple layout makeanart.com website](https://nextjs.org/showcase)
+3. [Deploy the static website to GitHub Pages](https://nextjs.org/learn/basics/deploying-nextjs-app)
